@@ -1,6 +1,6 @@
 # A-SMART-Analysis-Approach-for-Evaluating-Competencies-of-Candidates-Bachelor-s-Thesis
 
-### To see the full project with graphs click on the link: <a href = "https://nbviewer.org/github/DmytroZH123/Random-Processes-in-Meteorology/blob/main/RandomProcessWeather%20%281%29.ipynb">RandomProcesses (with graphs).ipynb </a>
+### To see the full project with graphs click on the link: <a href = "https://nbviewer.org/github/DmytroZH123/A-SMART-Analysis-Approach-for-Evaluating-Competencies-of-Candidates-Bachelor-s-Thesis/blob/main/Bachelor%27s%20Thesis%20Code.ipynb">Bachelor's Thesis Code.ipynb </a>
 
 Today, entrepreneurship emphasizes the use of the latest technologies and analytical tools for effective human resource management. It is vital to employ objective, accurate, and efficient methods to assess candidate skills, ensuring high quality staffing and competitiveness. Implementing a modern approach of SMART analysis can significantly enhance the candidate selection process and human resource management.
 This ensures that candidates' skills align with the needs of the IT industry, contributing to the further sector's overall development. 

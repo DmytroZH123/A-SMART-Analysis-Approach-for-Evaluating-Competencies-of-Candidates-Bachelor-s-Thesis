@@ -19,18 +19,18 @@ I proposed an automated solution consisting of three stages:
 ## Sample input:
 
 ### Anonymized resume:
-<img src="CV.jpeg" align = "center"/>
+<img src="CV.jpg" align = "center"/>
 
 ### Vacancy description: 
-<img src="job.jpeg" align = "center"/>
+<img src="job.jpg" align = "center"/>
 
 ---
 
 ## Sample output:
-<img src="results1.jpeg" align = "center"/>
-<img src="results2.jpeg" align = "center"/>
-<img src="results3.jpeg" align = "center"/>
-<img src="results4.jpeg" align = "center"/>
+<img src="results1.jpg" align = "center"/>
+<img src="results2.jpg" align = "center"/>
+<img src="results3.jpg" align = "center"/>
+<img src="results4.jpg" align = "center"/>
 
 
 ---
